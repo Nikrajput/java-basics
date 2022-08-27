@@ -44,7 +44,7 @@ public class Main {
 
 
         String s1="Alex";
-        String s2="Jamir";
+        String s2="Jamira";
 
         String s3= s1+s2;
 
