@@ -61,7 +61,7 @@ public class Main {
 
         System.out.println(alex.name + " " + mariam.name);
 
-        mariam.name="Maraiam";
+        mariam.name="Mariam";
         System.out.println(alex.name + " " + mariam.name);
 
     }
